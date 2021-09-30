@@ -16,6 +16,8 @@
 
 ## Our Team
 
+We are a team of 5 undergraduates at the Department of Electronic and Telecommunication Engineering, University of Moratuwa, Sri Lanka. Details of the team members can be found below.
+
 #### Team Leader
 
 [Tharuka Nilupul](https://github.com/TharukaN17)
