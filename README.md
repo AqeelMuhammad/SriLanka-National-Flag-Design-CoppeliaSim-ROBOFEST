@@ -12,7 +12,7 @@
 
 * After simulating successfully, our team was able to complete the task as shown below: 
 
-![]()
+![](Images/TaskFinish.png)
 
 ## Our Team
 
